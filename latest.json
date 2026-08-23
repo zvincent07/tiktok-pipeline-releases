@@ -1,19 +1,19 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "notes": "## What's New\nSee the full changelog in commit history.",
-  "pub_date": "2026-08-23T12:29:59.544Z",
+  "pub_date": "2026-08-23T12:52:50.280Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWmZ6TDB3a2QvNXRVRmYxNEpUc2V4Yk1nd21rUTl2a1RnalQ1VmJtNlRiRndKRkJzSlJMclVGMmZPcW9LOERwU29tSHZJSnAzN0RNeGwwMldxcFlHNmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg4MTk1CWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjAuMl94NjRfZW4tVVMubXNpCnFWSzV6R00ySmpCMVg3YXhvYlVreDZjbjZ4ZjhYRjV2MEVEczFRRzFDeDRmeUk1MjRDMXkyYWFlMklNRFlUUk4rK2ZBemYxN0NaaUF1M3graTRmZkFnPT0K",
-      "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.0.2/TikTok.Affiliate.Pipeline_2.0.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWmFrTjZsYnlNbFJIcVl2RXFsQ0dIdzVvTHJvQlhGRE1mRmJieDdmNk5OVDIzY1pPZVFUaDdRUlVIekRXNGZlVWMvN0loQ0REM2JSMHBmQlIyQTlselE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg5NTY2CWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjAuM194NjRfZW4tVVMubXNpCk81YVcydFJtVC9UOVIwQmdzU3RISnR5ZWpzSjNzWWdrOEM0UkVoZHd4a2lzL3lkYVA4L0ZRSXpGM2pOTGtWcFdPdXNCTVhqSzQrVk1xQkhDMXVCbUJnPT0K",
+      "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.0.3/TikTok.Affiliate.Pipeline_2.0.3_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWmZ6TDB3a2QvNXRVRmYxNEpUc2V4Yk1nd21rUTl2a1RnalQ1VmJtNlRiRndKRkJzSlJMclVGMmZPcW9LOERwU29tSHZJSnAzN0RNeGwwMldxcFlHNmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg4MTk1CWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjAuMl94NjRfZW4tVVMubXNpCnFWSzV6R00ySmpCMVg3YXhvYlVreDZjbjZ4ZjhYRjV2MEVEczFRRzFDeDRmeUk1MjRDMXkyYWFlMklNRFlUUk4rK2ZBemYxN0NaaUF1M3graTRmZkFnPT0K",
-      "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.0.2/TikTok.Affiliate.Pipeline_2.0.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWmFrTjZsYnlNbFJIcVl2RXFsQ0dIdzVvTHJvQlhGRE1mRmJieDdmNk5OVDIzY1pPZVFUaDdRUlVIekRXNGZlVWMvN0loQ0REM2JSMHBmQlIyQTlselE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg5NTY2CWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjAuM194NjRfZW4tVVMubXNpCk81YVcydFJtVC9UOVIwQmdzU3RISnR5ZWpzSjNzWWdrOEM0UkVoZHd4a2lzL3lkYVA4L0ZRSXpGM2pOTGtWcFdPdXNCTVhqSzQrVk1xQkhDMXVCbUJnPT0K",
+      "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.0.3/TikTok.Affiliate.Pipeline_2.0.3_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWmU2eXdEcythYTUvR1hwYzlueXhhNVVpQmxvNEZrY1ZkTFg2MXFIS1h1V0Z2M05hdU92SnBITDd0QkZwbEVPdzZiR1hLcWNsTkdUb0hhWWFMb3NHNndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg4MTk1CWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjAuMl94NjQtc2V0dXAuZXhlClRBdzJra0laUWVHUXk2b2RtdDYzaEdhY0RVa2phVHlqK3FRM09uTnl4bmh0dE9LcDE2N1AvSGE1T2trQjJLNXB6UUZ2ZlFnZDZJZDhXK1djdnJjaEN3PT0K",
-      "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.0.2/TikTok.Affiliate.Pipeline_2.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWlhvajhXdXlHNWpyWUdnK2xMNEtxVkQzbHduUHJNM045bE5ZSThTcnNwQUtvT0JKOG8xU1dxangzTGZMK1pjaTgrdXJ1VTRJV1ljVzVTV2VJRVNzb0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg5NTY2CWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjAuM194NjQtc2V0dXAuZXhlCnFCaEhyMUpEME8rdDZMS0s3RkRMaUxvRkVwNVgwTDhmc1hBWmI1WS9YUmNQV0JiL2RuaDV3UjFmS1U2b3VYaUNLTEk0MHB6QXNMOGdaUHJ5Nk4wUUJBPT0K",
+      "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.0.3/TikTok.Affiliate.Pipeline_2.0.3_x64-setup.exe"
     }
   }
 }
