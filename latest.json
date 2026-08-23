@@ -1,0 +1,19 @@
+{
+  "version": "2.0.1",
+  "notes": "## What's New\nSee the full changelog in commit history.",
+  "pub_date": "2026-08-23T12:01:29.420Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWlIvUllOdjNJRHI0LzAzRERkVlV6YWp3TEgwaGtsN3hxTjJKRGZXR2FBbGQ4ZVloSDFJckpjSGpsbTRzQzFDSUhFajEzc1dDUUpGV3RvTmRHbDkyeFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg2NDgyCWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjAuMV94NjRfZW4tVVMubXNpCjVhS3dSZCsweWFLWUt3VnpLMnRIUnE0MGxTQTRKN1F4WkhFbFZxVzk0Z1lUU0dvdE5SZmlSRVpnYTNTaDhsN3ppUWRzWHh5OWNkT1p2bk9pWVVkbUN3PT0K",
+      "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.0.1/TikTok.Affiliate.Pipeline_2.0.1_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWlIvUllOdjNJRHI0LzAzRERkVlV6YWp3TEgwaGtsN3hxTjJKRGZXR2FBbGQ4ZVloSDFJckpjSGpsbTRzQzFDSUhFajEzc1dDUUpGV3RvTmRHbDkyeFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg2NDgyCWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjAuMV94NjRfZW4tVVMubXNpCjVhS3dSZCsweWFLWUt3VnpLMnRIUnE0MGxTQTRKN1F4WkhFbFZxVzk0Z1lUU0dvdE5SZmlSRVpnYTNTaDhsN3ppUWRzWHh5OWNkT1p2bk9pWVVkbUN3PT0K",
+      "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.0.1/TikTok.Affiliate.Pipeline_2.0.1_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWmRBaHQza2s3bVZNNGZWNU0vWmp1bTZQbFpHN21Xem5BY25qM01RWUlWVGQ5YlprajNUZEJjdjkwY1pscll4QW0wSnFjbXoxdXcwNTJPQkxBQTMxZUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg2NDgyCWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjAuMV94NjQtc2V0dXAuZXhlCktlM2JHNGNJUjhpVUpLZnpFQlpMNldYeGEvNDZXcXRTeEdhWUZUdUY1RHl5U0EzMW5yY0lhUUVBVURpZ0FhVmFkazhkTmhneFhUSHR6MVdjN21ZL0JBPT0K",
+      "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.0.1/TikTok.Affiliate.Pipeline_2.0.1_x64-setup.exe"
+    }
+  }
+}
