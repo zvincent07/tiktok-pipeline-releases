@@ -1,14 +1,14 @@
 {
   "version": "2.1.0",
   "notes": "## What's New\nSee the full changelog in commit history.",
-  "pub_date": "2026-08-24T14:06:50.379Z",
+  "pub_date": "2026-08-25T12:45:54.823Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWmRVYkVoa0NERkpGTzVhZ3VHdW5oYm84R05OcUI0Z1VBdmJJdk5XK2xzbGttc2I3d2g0RHlaUkJ4NXJPKzlIV1ZVY2FLVmxYcUdDTnh2K0IrZFBCb1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTgwMzk2CWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjEuMF94NjQtc2V0dXAuZXhlCjJEOTBrTGIvR3hxRHQ0bTA0Y2xmUVpyUzRGN2FGWW15U1NNNCs4V0lseEdybURZRXVKeW1SaXdTQmRoRU4zSjAvcHptZ1pPcmhiaU9rZDZIODk1QkNBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWlUvdHdlaWw4UUhwV25YYTZOeUxLSVQ5Ti9MNkJNZnFSVDJ1U0M3YlZWRjJ1eE9yUTIweG5iWVUxNzdkMkJQWllJKzZlcGdEWTAydmdvaFlodW54cEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjYxOTQzCWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjEuMF94NjQtc2V0dXAuZXhlCk1HeE9TcE5UUGsxMVpBSUZZbWlwVlR4Y3o0emhla2ZybGx4NXMzY05lRERQWCs2ZCtuS05tUVZ6V2JPTGRyNVdQcU52NWxKbmpNVGhWSUNJTkEzdkJnPT0K",
       "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.1.0/TikTok.Affiliate.Pipeline_2.1.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWmRVYkVoa0NERkpGTzVhZ3VHdW5oYm84R05OcUI0Z1VBdmJJdk5XK2xzbGttc2I3d2g0RHlaUkJ4NXJPKzlIV1ZVY2FLVmxYcUdDTnh2K0IrZFBCb1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTgwMzk2CWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjEuMF94NjQtc2V0dXAuZXhlCjJEOTBrTGIvR3hxRHQ0bTA0Y2xmUVpyUzRGN2FGWW15U1NNNCs4V0lseEdybURZRXVKeW1SaXdTQmRoRU4zSjAvcHptZ1pPcmhiaU9rZDZIODk1QkNBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScTlJYXkzK3BmWlUvdHdlaWw4UUhwV25YYTZOeUxLSVQ5Ti9MNkJNZnFSVDJ1U0M3YlZWRjJ1eE9yUTIweG5iWVUxNzdkMkJQWllJKzZlcGdEWTAydmdvaFlodW54cEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjYxOTQzCWZpbGU6VGlrVG9rIEFmZmlsaWF0ZSBQaXBlbGluZV8yLjEuMF94NjQtc2V0dXAuZXhlCk1HeE9TcE5UUGsxMVpBSUZZbWlwVlR4Y3o0emhla2ZybGx4NXMzY05lRERQWCs2ZCtuS05tUVZ6V2JPTGRyNVdQcU52NWxKbmpNVGhWSUNJTkEzdkJnPT0K",
       "url": "https://github.com/zvincent07/tiktok-pipeline-releases/releases/download/v2.1.0/TikTok.Affiliate.Pipeline_2.1.0_x64-setup.exe"
     }
   }
